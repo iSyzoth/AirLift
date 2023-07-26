@@ -38,4 +38,4 @@
 > - Make any necessary changes to your code or add new files to the branch.
 > - Stage the changes for commit: [ `git add .`]
 > - Commit the changes Meaning full of Message [ `git commit -m "Your commit message here"`]
-> - Now, you can push the branch to the remote repository using the following command: [`git push origin yourbranch`]
+> - Now, you can push the branch to the remote repository: [`git push origin yourbranch`]
