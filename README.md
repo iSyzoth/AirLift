@@ -33,7 +33,9 @@
 
 # How to contribute this project
 
-- Firstly Create New branch name as "YourName"
-- Then work in your branch contribute [ `git add .`]
-- Commit Proper Meaning full of Message [ `git commit -m "Your menaning full message"`]
-- Then push [`git push origin yourbranch`]
+> - Firstly Create New branch name as "YourName" [ `git branch <your_branch_name>`]
+> - After created branch, you can switch your branch: [`git checkout <your_branch_name>`]
+> - Make any necessary changes to your code or add new files to the branch.
+> - Stage the changes for commit: [ `git add .`]
+> - Commit the changes Meaning full of Message [ `git commit -m "Your commit message here"`]
+> - Now, you can push the branch to the remote repository using the following command: [`git push origin yourbranch`]
