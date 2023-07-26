@@ -13,11 +13,11 @@
 
 # Getting Started with Airlift Project
 
-- [How to Clone this Project](#How-to-clone-this-Project)
-- [How to implement AirLift Spring Project](#How-to-implement-AirLift-Spring-Project)
-- [How to contribute this project](#How-to-contribute-this-project)
+- [How to Clone this Project](#how-to-clone-this-project)
+- [How to implement AirLift Spring Project](#how-to-implement-airlift-spring-project)
+- [How to contribute this project](#how-to-contribute-this-project)
 
-# How to clone this Project
+# How to Clone this Project
 
 > - First Make A Folder Give Name *Project*
 > - Then Open The Project Folder in *CMD Prompt* `git clone https://github.com/sumitnce1/AirLift.git`
